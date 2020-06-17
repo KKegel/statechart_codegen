@@ -19,4 +19,4 @@ For example on Windows docker shell:
 
 If the script fails because some permissions were denied, please try again with sudo/admin rights.
 
-**NOTE: the DockerHub image is currently private, to use it, please contact me via email.**
+**NOTE: the DockerHub image may be currently private, to use it, please contact me via email.**
